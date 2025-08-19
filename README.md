@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Prashant Gangwar https://devprashant.vercel.app/
+# 👋 Hi, I'm Prashant Gangwar
 
 I am a passionate, detail-oriented Software Engineer experienced in building scalable web and mobile solutions using the **MERN stack** and microservices architecture. My expertise lies in developing robust backend systems, intuitive frontends, and integrating emerging technologies like blockchain. I thrive on architecting innovative applications that deliver performance, security, and a seamless user experience.
 
